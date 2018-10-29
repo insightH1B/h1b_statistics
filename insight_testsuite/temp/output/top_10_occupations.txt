@@ -1,0 +1,11 @@
+TOP_OCCUPATIONS;NUMBER_CERTIFIED_APPLICATIONS;PERCENTAGE
+Software Developers, Applications;19;29.23077%
+Computer Occupations, All Other;8;12.307693%
+Computer Programmers;6;9.230769%
+Accountants and Auditors;4;6.1538463%
+Computer Systems Analysts;4;6.1538463%
+Computer and Information Systems Managers;2;3.0769231%
+Actuaries;1;1.5384616%
+Biological Technicians;1;1.5384616%
+Chief Executives;1;1.5384616%
+Civil Engineers;1;1.5384616%

@@ -1,0 +1,14 @@
+
+*.iml
+*.xml
+input/.DS_Store
+insight_testsuite/.DS_Store
+insight_testsuite/temp/input/.DS_Store
+*.class
+insight_testsuite/tests/.DS_Store
+insight_testsuite/tests/test_3/.DS_Store
+insight_testsuite/tests/test_3/inpiut/.DS_Store
+insight_testsuite/tests/test_2/.DS_Store
+insight_testsuite/tests/test_2/input/.DS_Store
+insight_testsuite/tests/test_1/.DS_Store
+.DS_Store
